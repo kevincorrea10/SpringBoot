@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.6.6' // Cambiado a una versión compatible con Java 11
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE' // Cambiado a una versión compatible con Spring Boot 2.6.6
+}
+
+group = 'co.edu.escuelaing'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    sourceCompatibility = '11'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-validation' // Ya no es necesario especificar la versión aquí
+    implementation 'org.springframework.boot:spring-boot-starter-web' // Ya no es necesario especificar la versión aquí
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.data:spring-data-keyvalue'
+}
+
+tasks.named('bootBuildImage') {
+    builder = 'paketobuildpacks/builder:jvm'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
