@@ -18,3 +18,18 @@
 <img width="804" alt="Taller 4 - 6 8 Test App Web" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/eb92fbbd-b727-43a9-95df-0b9e44b5c072">
 <img width="794" alt="Taller 4 - 6 9 Test App Web" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/acfc4125-717b-4f2d-83a0-1623bd022377">
 <img width="793" alt="Taller 4 - 6 10 Test App Web" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/24335f00-90bc-4bf2-8ec5-a0e95e2e167e">
+
+## 2da Parte
+
+<img width="788" alt="Taller 4 - 7 Create API" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/ae594df8-afce-4db5-84fa-1393c7a62ad4">
+![Taller 4 - 8 API Created](https://github.com/kevincorrea10/SpringBoot/assets/71157349/53947bc4-73f0-42bf-8a31-4d29fa08bd2f)
+<img width="522" alt="Taller 4 - 9 properties Updated" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/cd40d266-28a9-48b4-ad71-2ca28e204876">
+<img width="796" alt="Taller 4 - 10 Create Application" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/b90555ed-73f4-4038-8b6a-96607b7e2d65">
+<img width="800" alt="Taller 4 - 11 Fill out form" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/646ccfa0-5080-4dad-a8e4-4977151dce93">
+<img width="796" alt="Taller 4 - 12 Test Login" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/73f3a046-047b-4291-82d1-428e850e9236">
+<img width="793" alt="Taller 4 - 13 Login Successful" src="https://github.com/kevincorrea10/SpringBoot/assets/71157349/38bfd919-961d-45ac-9fae-1c72ca21bea7">
+![Taller 4 - 14 Permissions Created](https://github.com/kevincorrea10/SpringBoot/assets/71157349/6b0dbdf3-adc0-4a7b-b528-0af6bc630175)
+![Taller 4 - 15 RBAC Enabled](https://github.com/kevincorrea10/SpringBoot/assets/71157349/56eb7133-e7d5-45c1-b173-a715953f3acd)
+![Taller 4 - 16 Permissions added to Role](https://github.com/kevincorrea10/SpringBoot/assets/71157349/f8ff53e5-396c-41bf-9d78-f88a7b490a87)
+![Taller 4 - 16 Role Created](https://github.com/kevincorrea10/SpringBoot/assets/71157349/6e5fb432-0227-4731-b543-55e3d3cbdd92)
+![Taller 4 - 17 Test Connection with role](https://github.com/kevincorrea10/SpringBoot/assets/71157349/e2eb5f9c-7542-43ff-b4df-2f3b073e9506)
