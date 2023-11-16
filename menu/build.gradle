@@ -1,7 +1,7 @@
 plugins {
     id 'java'
-    id 'org.springframework.boot' version '2.6.6' // Cambiado a una versión compatible con Java 11
-    id 'io.spring.dependency-management' version '1.0.11.RELEASE' // Cambiado a una versión compatible con Spring Boot 2.6.6
+    id 'org.springframework.boot' version '2.6.6'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 }
 
 group = 'co.edu.escuelaing'
@@ -16,10 +16,15 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.springframework.boot:spring-boot-starter-validation' // Ya no es necesario especificar la versión aquí
-    implementation 'org.springframework.boot:spring-boot-starter-web' // Ya no es necesario especificar la versión aquí
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation 'org.springframework.data:spring-data-keyvalue'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+  	implementation 'org.springframework.security:spring-security-oauth2-resource-server'
+  	implementation 'org.springframework.security:spring-security-oauth2-jose'
+    implementation 'org.springframework:spring-core'
+
 }
 
 tasks.named('bootBuildImage') {

@@ -15,7 +15,6 @@ import java.util.Optional;
 
 import javax.validation.Valid;
 
-@CrossOrigin(origins = "https://dashboard.whatabyte.app")
 @RestController
 @RequestMapping("api/menu/items")
 public class ItemController {
